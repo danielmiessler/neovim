@@ -35,7 +35,6 @@ vim.opt.incsearch = true
 
 -- scrolling smooth
 vim.opt.scrolloff = 8
-vim.opt.signcolumn = "yes"
 
 -- Update time
 vim.opt.updatetime = 50
