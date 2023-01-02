@@ -1,6 +1,7 @@
 # My Neovim settings
 
-[[(http://share.danielmiessler.com/i/1qzKdy|CurrentConfig)]]
+![CurrentVimConfig(http://share.danielmiessler.com/i/1qzKdy)]
+
 _Updated: January 1, 2023_
 
 ## Overview
