@@ -8,11 +8,8 @@ _Updated: January 1, 2023_
 
 This is my latest (neo)Vim configuration. The repo includes two files:
 
-- `settings.lua`
-- `keymaps.lua`
-
-- settings.lua - this is where most of my core commands exist, including the most basic setup options for (n)vim.
-- keymaps.lua - this is where I do all my remaps
+- `settings.lua` — this is where most of my core commands exist, including the most basic setup options for (n)vim.
+- `keymaps.lua` — this is where I do all my remaps
 
 ## Philosophy
 
