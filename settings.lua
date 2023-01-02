@@ -37,7 +37,7 @@ vim.opt.incsearch = true
 vim.opt.scrolloff = 8
 
 -- Update time
-vim.opt.updatetime = 50
+vim.opt.updatetime = 10
 
 -- Color column
 vim.opt.colorcolumn = "80"

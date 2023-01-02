@@ -37,6 +37,10 @@ The idea for my Neovim (which I just call Vim) config is simplicity with a bit o
 
 ### Neat stuff
 
+- Leader-f to show your file tree
+- Leader-ff to find files in current directory
+- Leader-fs to find string in current directory as you type
+- Leader-fc to find string under cursor in current directory
 - Leader-sv to split vertical
 - Leader-sh to split horizontal
 - Leader-sx to close split
@@ -47,3 +51,5 @@ The idea for my Neovim (which I just call Vim) config is simplicity with a bit o
 - Leader-a to add a buffer to Harpoon
 - Ctrl-e to show Harpoon locations
 - Ctrl-($yourkey) to Harpoon around like a hero
+
+I hope this gives you some inspiration.
