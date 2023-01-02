@@ -1,6 +1,6 @@
 ------------------------------------------------------------------
 -- General (neo)Vim Settings
--- Daniel Miessler 2023 --
+-- Daniel Miessler 2023
 -- Credit to Josean and Primagean for some settings inspiration
 ------------------------------------------------------------------
 

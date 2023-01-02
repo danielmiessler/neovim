@@ -1,16 +1,20 @@
----------------------
--- General Keymaps
----------------------
+------------------------------------------------------------------
+-- General (neo)Vim Keymaps
+-- Daniel Miessler 2023
+-- Credit to Josean and Primagean for some settings inspiration
+------------------------------------------------------------------
 
--- clipboard-- greatest remap ever
+-- cleaner configs
+local keymap = vim.keymap -- for shorter mappings
+
+-- space as the leader
+vim.g.mapleader = " "
+
+-- clipboard (don't clobber the system cliboard by default)
 vim.keymap.set("x", "<leader>p", [["_dP]])
 vim.keymap.set({ "n", "v" }, "<leader>y", [["+y]])
 vim.keymap.set("n", "<leader>Y", [["+Y]])
 vim.keymap.set({ "n", "v" }, "<leader>d", [["_d]])
-
-vim.g.mapleader = " "
-
-local keymap = vim.keymap -- for conciseness
 
 -- use jk to exit insert mode
 keymap.set("i", "jk", "<ESC>")
