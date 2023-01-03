@@ -1,6 +1,6 @@
 # My (neo)Vim settings
 
-![CurrentVimConfig](http://share.danielmiessler.com/i/sOz2YQ)
+![CurrentVimConfig](https://cdn-std.droplr.net/files/acc_277166/sOz2YQ)
 
 _Updated: January 1, 2023_
 
