@@ -1,6 +1,6 @@
 ------------------------------------------------------------------
 -- General (neo)Vim Settings
--- Daniel Miessler 2023
+-- Daniel Miessler 2023 
 -- Credit to Josean and Primagean for some settings inspiration
 ------------------------------------------------------------------
 
@@ -35,9 +35,10 @@ vim.opt.incsearch = true
 
 -- scrolling smooth
 vim.opt.scrolloff = 8
+vim.opt.signcolumn = "yes"
 
 -- Update time
-vim.opt.updatetime = 10
+vim.opt.updatetime = 50
 
 -- Color column
 vim.opt.colorcolumn = "80"

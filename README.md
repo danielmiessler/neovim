@@ -48,5 +48,6 @@ The idea for my Neovim (which I just call Vim) config is simplicity with a bit o
 - Leader-a to add a buffer to Harpoon
 - Ctrl-e to show Harpoon locations
 - Ctrl-($yourkey) to Harpoon around like a hero
+- Visual repeat to repeat dot commands on a visual selection
 
 I hope this gives you some inspiration.
